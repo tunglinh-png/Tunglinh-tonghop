@@ -2,8 +2,8 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 
        local Window = MakeWindow({
          Hub = {
-         Title = "Tung Linh dz",
-         Animation = "TIKTOK: Tung linh"
+         Title = "Tung Linh dz account:myduyenz907",
+         Animation = "Youtube: Tung linh"
          },
         Key = {
         KeySystem = false,
